@@ -1,0 +1,5 @@
+INFO L'application a démarré
+WARNING Utilisation élevée de la mémoire
+ERROR Impossible de charger la configuration
+INFO Traitement terminé
+ERROR Connexion échouée

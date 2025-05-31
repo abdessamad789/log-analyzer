@@ -1,0 +1,17 @@
+
+---
+
+## ✅ Étape 4 : GitHub (création du dépôt distant)
+
+### 1. Crée un dépôt GitHub :
+- Nom : `log-analyzer`
+- Rendez-le public ou privé
+- Invitez `HibaUCA` comme collaboratrice
+
+### 2. Lier le dépôt distant
+
+```bash
+git remote add origin https://github.com/projet/log-analyzer.git
+git add .
+git commit -m "Initial commit"
+git push -u origin main
